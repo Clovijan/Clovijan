@@ -1,16 +1,12 @@
-### Hi there 👋
+# Clovijan Rocha
+<img width="auto" src="https://github.com/Clovijan/Clovijan/blob/master/GithubImg.jpg">
 
-<!--
-**Clovijan/Clovijan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá pessoal aqui quem vos fala é Clovijan Rocha 👍🏿
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ :fire: &nbsp; Atualmente estudante de  **Sistemas de Informação - Universidade Federal de Sergipe**  
+ <br/> :purple_heart: &nbsp; Busco colaborar com projetos React, React Native e Node
+ <br/> :computer: &nbsp; Stack Favorita: ReactJS, Node.js, React Native & Typescript
+ <br/> 💬  &nbsp; Sobre mim: Sempre antenado em tecnologia, minha filosofia é colher e disseminar conhecimento.
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ClovijanRocha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/clovijan-rocha-b468071b1/)](https://www.linkedin.com/in/clovijan-rocha-b468071b1/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-clovijan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:clovijan@gmail.com)](mailto:clovijan@gmail.com)
