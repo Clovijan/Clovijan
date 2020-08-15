@@ -1,7 +1,7 @@
 # Clovijan Rocha
 <img width="auto" src="https://github.com/Clovijan/Clovijan/blob/master/GithubImg.jpg">
 
-## Olá pessoal aqui quem vos fala é Clovijan Rocha 👍🏿
+## Olá pessoal, aqui quem vos fala é Clovijan Rocha 👍🏿
 
  :fire: &nbsp; Atualmente estudante de  **Sistemas de Informação - Universidade Federal de Sergipe**  
  <br/> :purple_heart: &nbsp; Busco colaborar com projetos React, React Native e Node
