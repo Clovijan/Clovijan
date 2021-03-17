@@ -4,7 +4,7 @@
 ## Olá pessoal, aqui quem vos fala é Clovijan Rocha 👍🏿
 
  :fire: &nbsp; Atualmente estudante de  **Sistemas de Informação - Universidade Federal de Sergipe e Desenvolvedor JAVA na mesma instituição**  
- <br/> :purple_heart: &nbsp; Busco colaborar com projetos React, React Native e Node
+ <br/> :purple_heart: &nbsp; Busco colaborar com projetos React, React Native, Node, JavaWeb
  <br/> :computer: &nbsp; Stack Favorita: ReactJS, Node.js, React Native & Typescript
  <br/> 💬  &nbsp; Sobre mim: Sempre antenado em tecnologia, minha filosofia é colher e disseminar conhecimento.
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ClovijanRocha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/clovijan-rocha-b468071b1/)](https://www.linkedin.com/in/clovijan-rocha-b468071b1/) 
