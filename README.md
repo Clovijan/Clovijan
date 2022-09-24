@@ -10,3 +10,5 @@
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ClovijanRocha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/clovijan-rocha-b468071b1/)](https://www.linkedin.com/in/clovijan-rocha-b468071b1/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-clovijan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:clovijan@gmail.com)](mailto:clovijan@gmail.com)
+
+![Snake animation](https://github.com/Clovijan/Clovijan/blob/output/github-contribution-grid-snake.svg)
