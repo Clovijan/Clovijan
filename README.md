@@ -1,7 +1,6 @@
 # Clovijan Rocha
 
 ## Hello, Devs👍🏿
-&nbsp;
 
 ### Me chamo **Clovijan Rocha**, estou finalizando o curso de **Sistemas de Informação - Universidade Federal de Sergipe**. Estou sempre atento as tecnologias e gosto de estar sempre atualizado.
 
